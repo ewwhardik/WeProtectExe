@@ -1,0 +1,17 @@
+D:\2.0\Projects\WeProtectExe\DotNetProtector\bin\Debug\net8.0\WeProtectExe.DotNet.exe
+D:\2.0\Projects\WeProtectExe\DotNetProtector\bin\Debug\net8.0\WeProtectExe.DotNet.deps.json
+D:\2.0\Projects\WeProtectExe\DotNetProtector\bin\Debug\net8.0\WeProtectExe.DotNet.runtimeconfig.json
+D:\2.0\Projects\WeProtectExe\DotNetProtector\bin\Debug\net8.0\WeProtectExe.DotNet.dll
+D:\2.0\Projects\WeProtectExe\DotNetProtector\bin\Debug\net8.0\WeProtectExe.DotNet.pdb
+D:\2.0\Projects\WeProtectExe\DotNetProtector\bin\Debug\net8.0\dnlib.dll
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.csproj.AssemblyReference.cache
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.AssemblyInfoInputs.cache
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.AssemblyInfo.cs
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.csproj.CoreCompileInputs.cache
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtec.6D2CA9A0.Up2Date
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.dll
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\refint\WeProtectExe.DotNet.dll
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.pdb
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\WeProtectExe.DotNet.genruntimeconfig.cache
+D:\2.0\Projects\WeProtectExe\DotNetProtector\obj\Debug\net8.0\ref\WeProtectExe.DotNet.dll
